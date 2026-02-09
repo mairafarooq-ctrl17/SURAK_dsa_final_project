@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (c) 2026 Alen Rafagudinov
+# Copyright (c) 2026 Maira Farooq
 # All rights reserved.
 """
 Stock Price Analyzer - Final Project
