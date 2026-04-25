@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# Copyright (c) 2026 Maira Farooq
+# Copyright (c) 2026 
+# Done By: Irtaza Haider, Aleena Abid, Maira Farooq
 # All rights reserved.
 """
 Stock Price Analyzer - Final Project
